@@ -1,14 +1,16 @@
 ---
 name: Feature request
-about: FEATURE REQUESTS ARE NOT BEING ACCEPTED
+about: For requesting new features
 title: ''
-labels: ''
-assignees: ''
+labels: feature request
+assignees: ayrton04
 
 ---
 
-# ALL QUESTIONS SHOULD BE DIRECTED TO robotics.stackexchange.com
+## Feature request
 
-## When asking a question on robotics.stackexchange.com, please include your full EKF config and one sample message from each sensor input**
+#### Feature description
+<!-- Description in a few sentences what the feature consists of and what problem it will solve -->
 
-# THIS PACKAGE WILL SOON BE DEPRECATED. FEATURE REQUESTS WILL NOT BE ADDRESSED.
+#### Implementation considerations
+<!-- Relevant information on how the feature could be implemented and pros and cons of the different solutions -->

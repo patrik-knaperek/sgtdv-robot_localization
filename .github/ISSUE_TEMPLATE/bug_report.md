@@ -1,35 +1,30 @@
 ---
 name: Bug report
-about: Create a bug report to fix _only_ critical issues in robot_localization
+about: For filing confirmed bugs
 title: ''
-labels: ''
+labels: bug
 assignees: ayrton04
 
 ---
 
-# ALL QUESTIONS SHOULD BE DIRECTED TO robotics.stackexchange.com
+<!-- All questions should be directed to answers.ros.org. Similarly, before filing a bug report, please check for solutions to your issue on answers.ros.org. -->
 
-## When asking a question on robotics.stackexchange.com, please include your full EKF config and one sample message from each sensor input**
+## Bug report
 
-# THIS PACKAGE WILL SOON BE DEPRECATED. UNLESS SEVERE, BUG REPORTS ARE UNLIKELY TO BE ADDRESSED
+**Required Info:**
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+- Operating System:
+  - <!-- OS and version (e.g. Ubuntu 16.04) -->
+- Installation type:
+  - <!-- binaries or from source  -->
+- Version or commit hash:
+  - <!-- Output of git rev-parse HEAD, release version, or repos file  -->
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. 
+#### Steps to reproduce issue
+<!-- Detailed instructions on how to reliably reproduce this issue -->
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+#### Expected behavior
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+#### Actual behavior
 
-**Desktop (please complete the following information):**
- - OS:
- - ROS Distribution:
- - `robot_localization` Package Version:
-
-**Additional context**
-Add any other context about the problem here.
+#### Additional information
