@@ -134,7 +134,7 @@ odom0_twist_rejection_threshold: 1
 # odom1_twist_rejection_threshold: 0.2
 # odom1_nodelay: false
 
-pose0: camera_pose
+pose0: camera/pose
 pose0_config: [true,  true,  false,
                false, false, true,
                false, false, false,
